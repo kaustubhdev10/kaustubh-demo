@@ -1,4 +1,4 @@
 # kaustubh-demo
 My first git repository
 <br>
-Author - Kaustubh
+Author - Kaustubh Dev
